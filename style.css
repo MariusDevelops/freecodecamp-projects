@@ -11,3 +11,10 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+.button {
+  height: 50px;
+  width: 100px;
+  background-color: aquamarine;
+  margin: 25px;
+}
